@@ -3,4 +3,4 @@ project(Assign3)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Assign3 src/main.cpp)
+add_executable(Assign3 src/main.cpp src/City.cpp)
